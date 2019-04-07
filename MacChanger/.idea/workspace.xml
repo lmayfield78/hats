@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1821d513-3f25-482f-9618-1d13e0a5652a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mac_changer.py" afterDir="false" />
-    </list>
+    <list default="true" id="1821d513-3f25-482f-9618-1d13e0a5652a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="17" />
     <option name="y" value="25" />
-    <option name="width" value="974" />
+    <option name="width" value="1082" />
     <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,10 +98,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="25" width="974" height="810" extended-state="0" />
+    <frame x="17" y="25" width="1082" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36201468" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32516494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
